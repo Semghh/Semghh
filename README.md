@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud">
         <img src="https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink">
-        <img src="https://img.shields.io/badge/-Flink-CDC-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink-CDC">
+        <img src="https://img.shields.io/badge/-Flink_CDC-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink-CDC">
         <img src="https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis">
         <img src="https://img.shields.io/badge/-Netty-2C2D72?style=flat-square&logo=netty&logoColor=white" alt="Netty">
       </td>
