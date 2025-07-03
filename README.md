@@ -104,12 +104,15 @@
         <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
         <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud">
+        <img src="https://img.shields.io/badge/-Flink-#E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink">
+        <img src="https://img.shields.io/badge/-Flink-CDC-#E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink-CDC">
         <img src="https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis">
         <img src="https://img.shields.io/badge/-Netty-2C2D72?style=flat-square&logo=netty&logoColor=white" alt="Netty">
       </td>
       <td>
         熟悉Spring相关的技术栈，能够独立排查解决框架相关的问题，能够根据业务特点改造框架。持续阅读相关源码。
         使用Netty编写项目的数据交换层。使用Modbus协议支撑2W台物联网设备进行数据收集。
+        Flink-CDC做实时宽表聚合。
       </td>
     </tr>
     <tr>
