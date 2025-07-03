@@ -22,7 +22,7 @@
       <td class="category-column">Programming Languages</td>
       <td class="technologies-column">
         <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/-Go-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/badge/-Go-00599C?style=flat-square&logo=go&logoColor=white" alt="Go">
       </td>
     </tr>
     <tr>
