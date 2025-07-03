@@ -84,28 +84,5 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semghh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semghh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Semghh&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <i>Happy coding!</i> 😊
-</div>
-
-
-
-
 
 
