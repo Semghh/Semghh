@@ -116,7 +116,7 @@
       <td class="category-column">其他工具</td>
       <td class="technologies-column">
         <img src="https://img.shields.io/badge/-Arthas-D24939?style=flat-square&logoColor=black" alt="Arthas">
-        <img src="https://img.shields.io/badge/-JFR%20Boot-231F20?style=flat-squaret&logoColor=white" alt="JFR">
+        <img src="https://img.shields.io/badge/-JFR-231F20?style=flat-squaret&logoColor=white" alt="JFR">
       </td>
       <td>
         使用火焰图、JFR 分析优化接口性能。解决过因 退优化、引入异常依赖、框架开启非期望功能引起的接口缓慢问题。
